@@ -8,4 +8,4 @@
 [![](https://github-readme-stats.ccs.cool/api/top-langs/?username=ChengCheng0v0&theme=dracula&show_icons=true&layout=compact&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-Oooooooooooooooooooooooooooooooooo~
+![](https://count.getloli.com/@github:OuOich?name=github%3AOuOich&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
